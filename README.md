@@ -1,3 +1,3 @@
-# This is my git lesson 2
+# This is my git lesson 3
 
-# cohort_67_lesson_02
+# cohort_67_lesson_03
